@@ -4,7 +4,7 @@ Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy I
 
 ## Dataset
 
-The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+The dataset used for this task is uploaded.This dataset contains records of population from the year 2001 to 2022. 
 
 ## Tools and Libraries used
 - Jupyter notebook
@@ -29,10 +29,3 @@ During the EDA process, I performed the following steps:
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!
-
-## 📬 Contact
-
-For any inquiries or feedback regarding this project, please contact:
-
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
-- Email: shantanupandey223@gmail.com
